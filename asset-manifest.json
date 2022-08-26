@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/elraenn-site-clone/static/css/main.c5e3d10c.css",
-    "main.js": "/elraenn-site-clone/static/js/main.7b42dfc6.js",
+    "main.css": "/elraenn-site-clone/static/css/main.19175e05.css",
+    "main.js": "/elraenn-site-clone/static/js/main.8df3a4c2.js",
     "index.html": "/elraenn-site-clone/index.html",
-    "main.c5e3d10c.css.map": "/elraenn-site-clone/static/css/main.c5e3d10c.css.map",
-    "main.7b42dfc6.js.map": "/elraenn-site-clone/static/js/main.7b42dfc6.js.map"
+    "main.19175e05.css.map": "/elraenn-site-clone/static/css/main.19175e05.css.map",
+    "main.8df3a4c2.js.map": "/elraenn-site-clone/static/js/main.8df3a4c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5e3d10c.css",
-    "static/js/main.7b42dfc6.js"
+    "static/css/main.19175e05.css",
+    "static/js/main.8df3a4c2.js"
   ]
 }
