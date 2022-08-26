@@ -10,7 +10,7 @@ import Footer from './components/Footer'
 function App() {
   return (
     <div className='h-full w-full'>
-      <div className='bg-[url("https://www.elraenn.com/img/banner.png")] bg-no-repeat bg-cover bg-right header-con'>
+      <div className='bg-[url("https://www.elraenn.com/img/banner.png")] bg-no-repeat bg-cover bg-center header-con'>
         <Header />
         <Sidebar />
       </div>
